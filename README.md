@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suresh Naik</h1>
-<h3 align="center">Passionate Embedded Software Developer Eager to Launch Career in Innovative Technologies!</h3>
+<h3 align="center">Passionate PCB Design Engineer and Hardware Design Engineer Eager to Launch Career in Innovative Technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshvarthe&label=Profile%20views&color=0e75b6&style=flat" alt="sureshvarthe" /> </p>
 
-- 🔭 I’m currently working on **Embedded System**
+- 🔭 I’m currently looking working on **PCB Design Engineer**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Altium**
 
-- 👯 I’m looking to collaborate on **c,c++**
-
-- 🤝 I’m looking for help with **Embedded software**
+- 🤝 I’m looking for help with **PCB Design Engineer**
 
 - 📫 How to reach me **sureshvarthe06@gmail.com**
 
